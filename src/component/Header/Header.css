@@ -1,0 +1,28 @@
+nav {
+    width: auto;
+    height: 80px;
+    padding: 0 146px 0 146px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 100;
+}
+
+nav img {}
+
+nav a {
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 17px;
+    font-size: 400;
+    text-decoration: none;
+    line-height: normal;
+    font-style: normal;
+    letter-spacing: 0.085px;
+    margin-left: 36px;
+}
